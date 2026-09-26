@@ -13,3 +13,4 @@ Bilingual Arabic/English static website for the existing Vercel project.
 - Real estate: GYO and Topkapi
 - WhatsApp booking links in both languages
 - Responsive mobile design
+Website update - Arabic & English
