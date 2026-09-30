@@ -1,16 +1,12 @@
-# Staristanbul20 — Tourism & Real Estate
+# Staristanbul20 Website
 
-Bilingual Arabic/English static website for the existing Vercel project.
+Bilingual Arabic/English tourism and real estate website for Staristanbul20.
 
-## Safe deployment
-- Keep the existing Vercel project and domain.
-- Connect this code to the existing Git repository and deploy to the existing project.
-- Do not create a new Vercel project or change DNS.
-
-## Included
-- Arabic/English language switch with saved preference
-- Tourism offers + detail pages
-- Real estate: GYO and Topkapi
-- WhatsApp booking links in both languages
-- Responsive mobile design
-Website update - Arabic & English
+## Latest update
+- Added a new residential property in Esenyurt, Istanbul.
+- Property: 90 m², 2 rooms, 1 bathroom, American kitchen.
+- Price: $64,000.
+- Not eligible for Turkish citizenship.
+- Added a compressed property walkthrough video and six photos extracted from the video.
+- Added complex amenities: indoor/outdoor pools, gardens, gym, Turkish bath, sauna, and separate facilities for men and women.
+- Added WhatsApp inquiry buttons.
